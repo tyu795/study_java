@@ -10,7 +10,7 @@ public class HelloWorld {
 		boolean b = false;
 		
 		int c = 1;
-		
+		System.out.println("c : " + c);
 	
 	}
 
