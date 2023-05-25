@@ -10,7 +10,7 @@ public class ExChar {
 		char c1 = 'A';
 		char c2 = 65;
 		char c3 = '\u0041';
-		// char c1_1 = "A";       오류:안됨
+		// char c1_1 = "A";      	오류: 안됨
 		// char c1_2 = 'A'; 		오류: 한글자만 됨
 		
 		System.out.println("c1:" + c1);
