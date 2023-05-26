@@ -14,6 +14,12 @@ public class TrCasting {
 		long longVar = (long) floatVar;
 		System.out.println("longVar:" + longVar);
 		
+		int intVar = (int) longVar;
+		System.out.println("intVar:" + intVar);
+		
+		short shortVar = (short) intVar;
+		System.out.println("shortVar:" + shortVar);
+		
 		
 	}
 
