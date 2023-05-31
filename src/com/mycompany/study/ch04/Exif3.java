@@ -8,17 +8,17 @@ public class Exif3 {
 		
 		int a = 0;
 		
-		if(a !=0) {
-		if (a%2 == 0) {
-			System.out.println("입력하신 " + a + "는 짝수입니다");
+		if(a != 0) {
+			if (a%2 == 0) {
+				System.out.println("입력하신 " + a + "는 짝수입니다");
+			} else {
+				System.out.println("입력하신 " + a + "는 홀수입니다");
+			} 
+			
 		} else {
-			System.out.println("입력하신 " + a + "는 홀수입니다");
-		} 
-		
-		}else {
 			System.out.println("0은 홀짝을 판단할수없습니다");
 		}
-		
+			
 	
 	}
 }
