@@ -12,9 +12,9 @@ public class ExTr {
 			} else {
 				System.out.println("홀수");
 			}
-			} else {
-				System.out.println("0");
-			}
+		} else {
+			System.out.println("0");
+		}
 		}
 
 	}
