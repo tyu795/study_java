@@ -9,12 +9,12 @@ public class ExWhile {
 		int i = 1;
 		
 			while(i<=10) {
-				sum = sum+i;
+				sum = sum + i;
 				i++;
 				System.out.println(sum);
 			}
 			
-			System.out.println("total sum" + sum);
+			System.out.println("total sum:" + sum);
 	}
 
 }

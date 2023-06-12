@@ -4,7 +4,7 @@ public class ExTr {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 0;
+		int a = 2;
 		
 		if (a != 0) {
 			if (a%2 == 0) {
